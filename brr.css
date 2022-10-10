@@ -1,0 +1,21 @@
+body{
+    background-color: yellowgreen;
+}
+
+ img{
+    width: 87%; 
+    height: 500px;
+    border: solid 5px red;
+    border-radius: 10%;
+}
+
+.col{ 
+    color: red;
+}
+
+.loli  img {
+    width: 35%;
+    height: 500px;
+    border: solid 5px purple;
+    
+}

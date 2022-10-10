@@ -1,0 +1,14 @@
+body{
+    background-color: yellow;
+}
+
+img{
+    width: 90%;
+    height: 500px;
+    border:solid 5px red;
+    border-radius: 5%;
+}
+
+.tor{
+    color: blue;
+}
